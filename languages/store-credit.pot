@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Store Credit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Available balance:"
+msgstr ""
+
+msgid "Balance"
+msgstr ""
+
+msgid "Checkout line name"
+msgstr ""
+
+msgid "E.g.: Store credit"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Store credit"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "Use store credit"
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
+
+msgid "Your store balance:"
+msgstr ""
+
+msgid "checkout-field-editor"
+msgstr ""
